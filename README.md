@@ -6,8 +6,8 @@
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
 ## last version
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 
 ```json
 [
@@ -154,6 +154,6 @@ TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last ver
 ]
 ```
 
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
 
